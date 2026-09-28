@@ -1,4 +1,1 @@
-welcom to devops git
-mohanad al awiti
-devops
-Testing Pull Request Flow
+welcom to devops git from local terminal
